@@ -1,0 +1,6 @@
+C:\Users\prati\source\repos\dashboardfinal\obj\Debug\dashboardfinal.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\dashboardfinal\obj\Debug\dashboardfinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\prati\source\repos\dashboardfinal\obj\Debug\dashboardfinal.Form1.resources
+C:\Users\prati\source\repos\dashboardfinal\obj\Debug\dashboardfinal.Properties.Resources.resources
+C:\Users\prati\source\repos\dashboardfinal\obj\Debug\dashboardfinal.csproj.GenerateResource.cache
+C:\Users\prati\source\repos\dashboardfinal\obj\Debug\dashboardfinal.csproj.CoreCompileInputs.cache
