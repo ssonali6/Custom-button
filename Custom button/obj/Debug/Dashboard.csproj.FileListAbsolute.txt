@@ -1,0 +1,5 @@
+C:\Users\SONALI\source\repos\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\SONALI\source\repos\Dashboard\obj\Debug\Dashboard.Dashboard.resources
+C:\Users\SONALI\source\repos\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\SONALI\source\repos\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\SONALI\source\repos\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
